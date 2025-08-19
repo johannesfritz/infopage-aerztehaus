@@ -43,7 +43,7 @@ Mitglieder:
 - Marcus Fritz (Verwaltung)`,
   },
   {
-    question: "Was ist seit der Wahl im März 2025 passiert?",
+    question: "Was ist seit der Wahl im März 2025 passiert????",
     answer:
       'Nach der Wahl wurde die bestehende Projektgruppe "Ärztliche Versorgung" neu aktiviert, wobei die personelle Zusammensetzung bis auf einen Wechsel (Elisabeth Jocham für Andi Haid) weitgehend gleich blieb. Die Gruppe erarbeitete einen Kriterienkatalog mit 27 Punkten, der als Grundlage für eine objektive Bewertung diente. Dieser Katalog wurde der AKS Gesundheit GmbH übergeben, mit dem Auftrag, die beiden möglichen Standorte – den Neubau in Hirschegg und eine Lösung im Sterngebäude in Riezlern – zu prüfen. Die AKS schloss diese Prüfung ab und legte ihr Gutachten Ende April 2025 vor. Parallel dazu wurden die Gespräche mit den Anrainern am Standort Hirschegg fortgeführt, um eine einvernehmliche Lösung bezüglich der Wegerechte und Zufahrt zu finden.',
   },
